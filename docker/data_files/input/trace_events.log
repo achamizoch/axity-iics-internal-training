@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - 96E8FA61FD3B02CA0349ACAF0C5152EC.dxTomcat [18/Sep/2014:14:54:24 +0300] 'GET /dx-console/ HTTP/1.1' 302 -
+0:0:0:0:0:0:0:1 - 96E8FA61FD3B02CA0349ACAF0C5152EC.dxTomcat [18/Sep/2014:14:54:25 +0300] 'GET /dx-console/com.informatica.b2b.dx.Main/main.jsp HTTP/1.1' 302 -
+0:0:0:0:0:0:0:1 - 96E8FA61FD3B02CA0349ACAF0C5152EC.dxTomcat [18/Sep/2014:14:54:25 +0300] 'GET /dx-console/login.jsp HTTP/1.1' 200 4472
+0:0:0:0:0:0:0:1 - 96E8FA61FD3B02CA0349ACAF0C5152EC.dxTomcat [18/Sep/2014:14:55:47 +0300] 'POST /dx-console/j_spring_security_check HTTP/1.1' 302 -
+0:0:0:0:0:0:0:1 - 96E8FA61FD3B02CA0349ACAF0C5152EC.dxTomcat [18/Sep/2014:14:55:47 +0300] 'GET /dx-console/com.informatica.b2b.dx.Main/main.jsp HTTP/1.1' 200 167244
